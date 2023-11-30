@@ -1,9 +1,20 @@
-body {background-color: darkcyan;}
+body {
+  background-color: rgba(230, 215, 14, 0.774) 118, 0);
+}
+
 #título {
   font-size: 80px;
   text-align: center;
   color: rgb(6, 116, 6);
-
 } 
 
-.texto {}
+.texto {
+  font-size: 30px;
+  text-align: justify;
+  color: blueviolet;
+}
+.listas1 {
+  font-size: 30px;
+  text-align: center;
+  list-style-position: inside;
+}
